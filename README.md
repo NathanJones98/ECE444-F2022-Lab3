@@ -11,6 +11,6 @@ This repository hosts a copy of the source code for the Education Pathways proje
 
 # Activity 3
 ![](images/Activity3.png)
-![](images/Activity32.png)
+![](images/Activity3-2.png)
 
 # Activity 4
